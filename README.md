@@ -51,23 +51,31 @@
     
     WIND SERMON
     
-    In the beginning were words, 
-    and no one’s sure, who’s. 
-    All I know's now:
-    they’re between me and you. 
-    The verbs are what breathe; 
-    the verbs are what move.
-    To live is enough:
-    we have nothing to prove.
-    The devil told Jesus,
-    as he passed the herbs:
-    “Yeah, judgment’s for nouns,
-    And mercy’s for verbs.”
-    Go, burn the partitions,
-    and steady the spin;
-    and never stop moving:
-    it’s time to be wind.
-    ~ $0.09
+    In the beginning was the wind, 
+    and it carried the word,
+    And the word carried meaning
+    to those who had heard,
+    so they laughed and they sang, 
+    and they danced in the rain;
+    people weren't so distracted  
+    with things to maintain;
+    Life was simple back then,
+    before all this stuff..
+    kinda strange, how much less
+    equalled more than enough;
+    But then it all changed,
+    once the words became lies..
+    people hoarded their money,
+    averted their eyes,
+    and they built the partitions
+    to protect all their things,
+    and forgot how to live,
+    and the joy that it brings;
+    if you worship the walls,
+    you forget why you're here,
+    and more's never enough,
+    once you're living in fear..
+    
     
     > TYPE 'VERIFY' TO ACCESS THE LEDGER
     `;
